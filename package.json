@@ -1,0 +1,12 @@
+{
+  "name": "kr-nowcast-dashboard",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.mjs"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "yahoo-finance2": "^3.17.1"
+  }
+}
